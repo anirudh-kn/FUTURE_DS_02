@@ -28,54 +28,92 @@ The goal is to identify churn patterns, retention trends, and provide actionable
 
 ---
 
+## 📁 Dataset
+
+The dataset contains:
+
+* Customer demographics and account details
+* Contract types and tenure
+* Monthly and total charges
+* Churn status (Yes/No)
+
+---
+
+## 📊 Dashboard Features
+
+* KPI Cards (Total Customers, Churned Customers, Churn Rate)
+* Churn Distribution (Yes vs No)
+* Contract-wise Churn Analysis
+* Tenure-based Churn Analysis
+* Monthly Charges vs Churn
+
+---
+
 ## 📊 Key Insights
 
-1️⃣ Contract Type Impact
+### 1️⃣ Contract Type Impact
 
-Customers with month-to-month contracts show the highest churn rate, while long-term contracts (1-year, 2-year) have significantly lower churn.
+Customers with **month-to-month contracts show the highest churn rate**, while long-term contracts (1-year, 2-year) have significantly lower churn.
 👉 Indicates lack of commitment leads to higher churn.
 
-2️⃣ Pricing Influence
+---
 
-Customers with higher monthly charges exhibit higher churn probability.
+### 2️⃣ Pricing Influence
+
+Customers with **higher monthly charges exhibit higher churn probability**.
 👉 Suggests pricing sensitivity and possible dissatisfaction with value.
 
-3️⃣ Customer Lifecycle (Tenure)
+---
 
-Customers in early tenure stages churn more frequently, whereas long-tenure customers are more stable.
+### 3️⃣ Customer Lifecycle (Tenure)
+
+Customers in **early tenure stages churn more frequently**, whereas long-tenure customers are more stable.
 👉 Onboarding experience plays a crucial role in retention.
 
-4️⃣ Retention Trend
+---
 
-As tenure increases, churn rate decreases, showing strong retention among long-term customers.
+### 4️⃣ Retention Trend
 
-5️⃣ Overall Churn Rate
+As tenure increases, churn rate decreases, showing **strong retention among long-term customers**.
 
-The overall churn rate is 26.54%, highlighting a significant retention challenge.
+---
+
+### 5️⃣ Overall Churn Rate
+
+The overall churn rate is **26.54%**, highlighting a significant retention challenge.
+
 ---
 
 ## 💡 Recommendations
 
-1️⃣ Promote Long-Term Contracts
+### 1️⃣ Promote Long-Term Contracts
 
 Offer discounts or benefits for yearly plans to reduce churn.
 
-2️⃣ Optimize Pricing Strategy
+---
+
+### 2️⃣ Optimize Pricing Strategy
 
 Introduce flexible pricing or bundles to reduce churn from high-paying customers.
 
-3️⃣ Improve Early Customer Experience
+---
+
+### 3️⃣ Improve Early Customer Experience
 
 Focus on onboarding, support, and engagement in first few months.
 
-4️⃣ Loyalty Programs
+---
+
+### 4️⃣ Loyalty Programs
 
 Reward long-term customers to strengthen retention.
+
 ---
 
 ## 📸 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
 ---
 
 ## 🚀 Conclusion
