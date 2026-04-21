@@ -75,8 +75,7 @@ Reward long-term customers to strengthen retention.
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
-
+![Dashboard](dashboard.png)
 ---
 
 ## 🚀 Conclusion
